@@ -1,0 +1,17 @@
+{
+      "name": "WEBonNIX",
+      "symbol": "WoN",
+      "image": "https://raw.githubusercontent.com/Webonnix/WEBonNIX/main/img/WoN-coin-logo.png",
+      "description": "The primary aim of the coin is to advance blockchain technology through investments in server capacity and facilitating payments for this capacity using the WEBonNIX coin.",
+      "extensions": {
+          "website": "https://webonnix.io",
+          "telegram": "https://t.me/webonnixcoin"
+        },
+      "tags": [
+          "RWA"
+        ],
+      "creator": {
+          "name": "WEBonNIX",
+          "site": "https://webonnix.io"
+      }
+}
